@@ -1,8 +1,7 @@
-# ARCHIVED Student virtual assistant 
-> This is an archived repository. Some files were removed due to privacy reasons. Some functionnalities might not work as intended. You can find everything as is.
+# Student virtual assistant 
 
-## developped by Lázár Barta and Laila Laaris
-### @ Université de Genève - DiSTIC
+## developped by Laila Laaris and Lázár Barta
+### @ Université de Genève - DISTIC
 October-December 2022
 
 ### Launch the backend:
@@ -21,26 +20,8 @@ if required, install the necessary frameworks and components
 
 ### Launch the frontend
 
-#### Project setup
-```
-npm install
-```
-
-#### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-#### Compiles and minifies for production
-```
-npm run build
-```
-
-## API documentation
+## API documentation:
 `Implementation/API_endpoints/endpoints.md`
-
-## Demo
-https://youtu.be/WEbyHLGcyhA
 
 ## Further assistance
 For further assistance don't hesitate to contact us!
